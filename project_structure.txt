@@ -1,0 +1,6 @@
+signature_app/
+│
+├── main.py                # Your main application code
+├── requirements.txt       # List of dependencies
+├── README.md              # Project description and instructions
+└── .gitignore             # Files and directories to ignore in Git
